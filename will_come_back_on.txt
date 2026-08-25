@@ -1,0 +1,3 @@
+- If 2 detentions, why not do synthetic data generation
+- cold start problem for new vessels
+- If USCG is next and they focus on fire safety, a vessel with fire safety findings jumps the queue. That's not scoring — that's your recommendation layer.
