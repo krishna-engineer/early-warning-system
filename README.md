@@ -7,7 +7,7 @@ A working prototype and production proposal for the question:
 
 ---
 
-**[▶ 5-minute video walkthrough of my work]()**
+**[▶ 5-minute video walkthrough of my work](https://drive.google.com/file/d/14ljQgsz5uguvl-GPL5UhURDApiNb-W-w/view?usp=sharing)**
 
 ---
 
