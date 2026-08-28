@@ -5,5 +5,8 @@ __pycache__/
 *.pyc
 
 sample_dataset/
+
+notebooks/05_demo.ipynb
+build_demo.py
 main.py
 production_notes.md
