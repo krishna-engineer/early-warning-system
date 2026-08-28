@@ -1,21 +1,21 @@
 vessel_id,vessel_name,vessel_type,flag_state,vessel_age,rank,score,tier,drivers,n_drivers,saturated,Repetition,Trend,Unresolved,Maintenance,Concentration,Crew,Equipment
-V001,MV Alpha,Bulk Carrier,Panama,18,1,85.5,High,Repetition|Trend|Unresolved|Maintenance,4,Repetition|Trend|Maintenance,20,20,17.5,15,8.4,3.5,1
-V004,MV Delta,Chemical Tanker,Marshall Islands,15,2,60.6,High,Concentration|Trend|Unresolved|Repetition,4,Concentration,9.7,14.3,11.2,7.5,15,1.1,1.8
-V019,MV Atlas,Chemical Tanker,Marshall Islands,17,3,32.2,Medium,Maintenance|Equipment|Repetition|Crew,4,Equipment,3.9,5.7,4,9.4,1.6,2.6,5
-V007,MV Horizon,Oil Tanker,Liberia,12,4,29.4,Medium,Maintenance|Repetition|Equipment,3,Equipment,6,2.9,0.9,9.4,4.2,1.5,4.5
-V016,MV Voyager,Bulk Carrier,Panama,3,5,25.1,Low,,0,,0.9,5.7,3.6,7.5,2.5,2.5,2.3
+V001,MV Alpha,Bulk Carrier,Panama,18,1,85.5,High,Repetition|Trend|Unresolved|Maintenance,4,Repetition|Trend|Maintenance,20.0,20.0,17.5,15.0,8.4,3.5,1.0
+V004,MV Delta,Chemical Tanker,Marshall Islands,15,2,60.6,High,Concentration|Trend|Unresolved|Repetition,4,Concentration,9.7,14.3,11.2,7.5,15.0,1.1,1.8
+V019,MV Atlas,Chemical Tanker,Marshall Islands,17,3,31.8,Medium,Maintenance|Equipment|Repetition,3,Equipment,3.9,5.7,4.0,9.4,1.6,2.2,5.0
+V007,MV Horizon,Oil Tanker,Liberia,12,4,29.4,Medium,Maintenance|Repetition|Equipment,3,Equipment,6.0,2.9,0.9,9.4,4.2,1.5,4.5
+V016,MV Voyager,Bulk Carrier,Panama,3,5,25.1,Low,Crew,1,,0.9,5.7,3.6,7.5,2.5,2.5,2.3
 V013,MV Titan,Container Ship,Singapore,6,5,25.1,Low,Unresolved|Repetition,2,,4.8,5.7,7.1,3.8,1.6,0.8,1.3
-V014,MV Unity,Chemical Tanker,Marshall Islands,5,7,25,Low,Maintenance|Equipment,2,,1.8,5.7,3.4,9.4,0,1.4,3.2
-V011,MV Ranger,Bulk Carrier,Panama,8,8,24.8,Low,Concentration|Crew,2,,3,5.7,5.7,0,5,2.7,2.7
-V010,MV Quantum,LNG Carrier,Malta,9,9,21.5,Low,,0,,2.8,5.7,4.9,5.6,1.6,0.9,0
-V008,MV Orion,Container Ship,Singapore,11,10,21,Low,Concentration,1,,1.8,2.9,1.5,5.6,5.5,1.8,1.8
-V012,MV Sirius,Oil Tanker,Liberia,7,11,20.1,Low,Unresolved|Equipment,2,,3,0,6.4,5.6,1.9,0,3.2
-V017,MV Wave,Oil Tanker,Liberia,19,11,20.1,Low,Unresolved|Crew,2,,2.1,0,6,5.6,1.1,2.6,2.8
-V020,MV Neptune,LNG Carrier,Malta,16,13,19.7,Low,,0,,0.9,2.9,3,7.5,1.6,2,1.8
-V009,MV Pacific,Chemical Tanker,Marshall Islands,10,14,19,Low,Concentration|Crew|Equipment,3,,0,0,3.6,1.9,7.1,3.3,3.2
+V014,MV Unity,Chemical Tanker,Marshall Islands,5,7,25.0,Low,Maintenance|Equipment,2,,1.8,5.7,3.4,9.4,0.0,1.4,3.2
+V011,MV Ranger,Bulk Carrier,Panama,8,8,24.8,Low,Concentration|Crew,2,,3.0,5.7,5.7,0.0,5.0,2.7,2.7
+V010,MV Quantum,LNG Carrier,Malta,9,9,21.5,Low,,0,,2.8,5.7,4.9,5.6,1.6,0.9,0.0
+V008,MV Orion,Container Ship,Singapore,11,10,21.0,Low,Concentration,1,,1.8,2.9,1.5,5.6,5.5,1.8,1.8
+V012,MV Sirius,Oil Tanker,Liberia,7,11,20.1,Low,Unresolved|Equipment,2,,3.0,0.0,6.4,5.6,1.9,0.0,3.2
+V017,MV Wave,Oil Tanker,Liberia,19,11,20.1,Low,Unresolved|Crew,2,,2.1,0.0,6.0,5.6,1.1,2.6,2.8
+V020,MV Neptune,LNG Carrier,Malta,16,13,19.7,Low,,0,,0.9,2.9,3.0,7.5,1.6,2.0,1.8
+V009,MV Pacific,Chemical Tanker,Marshall Islands,10,14,19.0,Low,Concentration|Crew|Equipment,3,,0.0,0.0,3.6,1.9,7.1,3.3,3.2
 V002,MV Beta,Oil Tanker,Liberia,17,15,18.9,Low,,0,,2.8,2.9,4.6,1.9,2.1,2.4,2.3
-V015,MV Vega,LNG Carrier,Malta,4,16,18,Low,,0,,1.8,2.9,4,5.6,0,2.3,1.3
-V003,MV Gamma,Container Ship,Singapore,16,17,15.7,Low,,0,,3,0,4.8,1.9,2.1,1.1,2.8
-V018,MV Zenith,Container Ship,Singapore,18,18,14.7,Low,,0,,2.8,0,2.8,5.6,1.7,1.2,0.5
-V005,MV Echo,LNG Carrier,Malta,14,19,12.6,Low,,0,,0.9,0,4.6,1.9,2.5,1.4,1.3
-V006,MV Falcon,Bulk Carrier,Panama,13,20,12.4,Low,,0,,0.9,0,3.1,3.8,1.7,1.5,1.3
+V015,MV Vega,LNG Carrier,Malta,4,16,18.0,Low,,0,,1.8,2.9,4.0,5.6,0.0,2.3,1.3
+V003,MV Gamma,Container Ship,Singapore,16,17,15.7,Low,,0,,3.0,0.0,4.8,1.9,2.1,1.1,2.8
+V018,MV Zenith,Container Ship,Singapore,18,18,14.7,Low,,0,,2.8,0.0,2.8,5.6,1.7,1.2,0.5
+V005,MV Echo,LNG Carrier,Malta,14,19,12.6,Low,,0,,0.9,0.0,4.6,1.9,2.5,1.4,1.3
+V006,MV Falcon,Bulk Carrier,Panama,13,20,12.4,Low,,0,,0.9,0.0,3.1,3.8,1.7,1.5,1.3

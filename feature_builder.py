@@ -22,7 +22,7 @@ def find_project_root() -> Path:
 
 PROJECT_ROOT = find_project_root()
 DATA_DIR = PROJECT_ROOT / "sample_dataset"
-REFERENCE_DATE = pd.Timestamp("2026-08-24")
+REFERENCE_DATE = pd.Timestamp("2026-08-28")
 
 vessels = pd.read_csv(DATA_DIR / "VesselMaster.csv")
 inspections = pd.read_csv(DATA_DIR / "Inspections.csv", parse_dates=["inspection_date"])

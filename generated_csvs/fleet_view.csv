@@ -1,10 +1,10 @@
 vessel_id,vessel,score,tier,why,first_action
 V001,MV Alpha,85.5,High,"Repetition, Trend, Unresolved, Maintenance",Technical / Before next port call
 V004,MV Delta,60.6,High,"Concentration, Trend, Unresolved, Repetition",Marine / 30 days
-V019,MV Atlas,32.2,Medium,"Maintenance, Equipment, Repetition, Crew",Technical / 30 days
+V019,MV Atlas,31.8,Medium,"Maintenance, Equipment, Repetition",Technical / 30 days
 V007,MV Horizon,29.4,Medium,"Maintenance, Repetition, Equipment",Technical / 30 days
 V013,MV Titan,25.1,Low,"Unresolved, Repetition",Vessel / Technical / 14 days
-V016,MV Voyager,25.1,Low,no elevated dimension,routine
+V016,MV Voyager,25.1,Low,Crew,Crewing / Before next crew change
 V014,MV Unity,25.0,Low,"Maintenance, Equipment",Technical / 30 days
 V011,MV Ranger,24.8,Low,"Concentration, Crew",Marine / 30 days
 V010,MV Quantum,21.5,Low,no elevated dimension,routine
